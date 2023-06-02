@@ -1,0 +1,15 @@
+body{
+	background:linear-gradient(blue,yellow,pink,black,green);
+}
+form{
+	background-image: url("th (4).jpg");
+	margin-left: 400px;
+	width: 400px;
+	height: 500px;
+}
+input{
+	margin-left: 80px;
+	border-radius: 30px;
+	color: skyblue
+	cursor:pointer;
+}
